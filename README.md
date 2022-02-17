@@ -34,7 +34,7 @@ Where `04` is the amount of rows (height), `06` is the amount of columns (width)
 
 You can also check out `sample_input.txt` to get started. These inputs are to be copied and pasted into the website's input field directly, and the linebreaks will be read as spaces - this does not matter, as you can put any single character as separator.
 
-Another thing: The universe (playing field) is bordered by "permadead" cells, which are cells that always count as dead. This can save you some rows.
+Another thing: The universe (playing field) is bordered by "permadead" cells, which are cells that always count as dead. This can probably save you a few rows and columns if you just want to run still lifes or oscillators.
 
 ### Output
 
