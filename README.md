@@ -12,7 +12,7 @@ Yes.
 
 ### Can I see the version with comments?
 
-No.
+~~No.~~ Yes, now you can! It was previously confidential because this whole thing was made as a school assignment purely to mess with my TA.
 
 ## Deploying
 
